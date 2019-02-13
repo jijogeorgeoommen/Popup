@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:title="Welcome"
+    android:id="@+id/wel"/>
+ <item
+     android:title="Camera"
+     android:id="@+id/cam"/>
+ <item
+     android:title="Music Player"
+     android:id="@+id/music"/>
+    <item
+        android:title="Phone"
+        android:id="@+id/phone"/>
+
+</menu>
